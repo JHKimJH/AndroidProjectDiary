@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="textView">여행 다이어리</string>
+    <string name="button1">오늘을 기록하기</string>
+    <string name="button2">나의 기록 모아보기</string>
+    <string name="textView2">오늘 당신의 하루는</string>
+    <string name="textView3">장소</string>
+    <string name="textView4">어땠나요?</string>
+    <string name="textView5">위도</string>
+    <string name="textView6">경도</string>
+    <string name="editText">장소를 입력하세요</string>
+    <string name="editText2">내용을 입력하세요.</string>
+    <string name="editText3">위도 입력</string>
+    <string name="editText4">경도 입력</string>
+    <string name="button4">저장</string>
+    <string name="textView7">그 날의 하루는</string>
+    <string name="button5">사진 불러오기</string>
+    <string name="editText6">URL 입력</string>
+    <string name="button6">지도에서 위치 보기</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
