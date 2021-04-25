@@ -15,6 +15,7 @@ Android SDK 28 Android SDK Build-tools 28.0.3
 #### Gradle
 
 ''' 
+
 dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.2.0'
@@ -26,4 +27,5 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
+
 '''
