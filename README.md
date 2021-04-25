@@ -13,7 +13,7 @@ Android SDK 28 Android SDK Build-tools 28.0.3
 (You can change other sdk and build-tools)
 ## Usage
 #### Gradle
-''' gradle
+''' Gradle
 dependencies {
 
     implementation 'androidx.appcompat:appcompat:1.2.0'
