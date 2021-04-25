@@ -6,5 +6,8 @@ If you click to check the previous diaries, then you will see the list of diarie
 ## Sample video
 
 ## Installation
-
+Android Studio
+Android SDK 28 Android SDK Build-tools 28.0.3
+(You can change other sdk and build-tools)
 ## Usage
+####Gradle
