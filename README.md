@@ -4,7 +4,7 @@ If you choose to write new one, there are test boxes for date, place, and conten
 If you click to check the previous diaries, then you will see the list of diaries you wrote. You can access the detailed content and you will see what you've wrote previously and the button to see the location for latitude as location of that place.
 
 ## Sample video
-
+<img width="80%" src="https://user-images.githubusercontent.com/75755156/116001682-9c8c1800-a630-11eb-8391-4ddc1ebd5741.mp4"/>
 ## Installation
 Android Studio
 
@@ -63,3 +63,5 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 
     private GoogleMap mMap;
 ```
+
+
