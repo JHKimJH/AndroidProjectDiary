@@ -1,10 +1,16 @@
+
 # AndroidProjectDiary
 A Android App that you can write a travel diary. You can choose whether to write the diary or check the previous diaries on the First screen. 
 If you choose to write new one, there are test boxes for date, place, and contents. You can also upload a picture and enter the longitude and latitude as location.
 If you click to check the previous diaries, then you will see the list of diaries you wrote. You can access the detailed content and you will see what you've wrote previously and the button to see the location for latitude as location of that place.
 
-## Sample video
-<img width="80%" src="https://user-images.githubusercontent.com/75755156/116001682-9c8c1800-a630-11eb-8391-4ddc1ebd5741.mp4"/>
+## Screenshot
+![image](https://user-images.githubusercontent.com/75755156/116002585-67ce8f80-a635-11eb-9d35-e73358d7e4f9.png)
+![image](https://user-images.githubusercontent.com/75755156/116002614-96e50100-a635-11eb-9956-fa025245997b.png)
+![image](https://user-images.githubusercontent.com/75755156/116002642-aebc8500-a635-11eb-88e3-ad67410b5054.png)
+![image](https://user-images.githubusercontent.com/75755156/116002659-c0059180-a635-11eb-9211-b4e86c285daa.png)
+![image](https://user-images.githubusercontent.com/75755156/116002670-cc89ea00-a635-11eb-88b5-d2b9dc7b5ab6.png)
+
 ## Installation
 Android Studio
 
@@ -64,12 +70,3 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private GoogleMap mMap;
 ```
 
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/viuWdysEAWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yvn03Qgy0Dc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
