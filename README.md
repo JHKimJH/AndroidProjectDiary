@@ -19,7 +19,8 @@ If you click to check the previous diaries, then you will see the list of diarie
 Android Studio   
 Android SDK 28 Android SDK Build-tools 28.0.3   
 (You can change other sdk and build-tools)
-## Setting
+
+## GoogleMap Setting
 #### Gradle
 
 ```gradle
@@ -34,7 +35,7 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 }
 ```
-## GoogleMap
+
 #### XML
 ```xml
 <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
