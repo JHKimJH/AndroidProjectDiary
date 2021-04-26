@@ -1,23 +1,23 @@
 
 # AndroidProjectDiary
+
+## Result Screenshot
 A Android App that you can write a travel diary. You can choose whether to write the diary or check the previous diaries on the First screen. 
 If you choose to write new one, there are test boxes for date, place, and contents. You can also upload a picture and enter the longitude and latitude as location.
 If you click to check the previous diaries, then you will see the list of diaries you wrote. You can access the detailed content and you will see what you've wrote previously and the button to see the location for latitude as location of that place.
 
-## Screenshot
-![image](https://user-images.githubusercontent.com/75755156/116002585-67ce8f80-a635-11eb-9d35-e73358d7e4f9.png)
-![image](https://user-images.githubusercontent.com/75755156/116002614-96e50100-a635-11eb-9956-fa025245997b.png)
-![image](https://user-images.githubusercontent.com/75755156/116002642-aebc8500-a635-11eb-88e3-ad67410b5054.png)
-![image](https://user-images.githubusercontent.com/75755156/116002659-c0059180-a635-11eb-9211-b4e86c285daa.png)
-![image](https://user-images.githubusercontent.com/75755156/116002670-cc89ea00-a635-11eb-88b5-d2b9dc7b5ab6.png)
+## Result Screenshot
+<img src = "https://user-images.githubusercontent.com/75755156/116002585-67ce8f80-a635-11eb-9d35-e73358d7e4f9.png" width="35%">
+<img src = "https://user-images.githubusercontent.com/75755156/116002614-96e50100-a635-11eb-9956-fa025245997b.png" width="35%">
+<img src = "https://user-images.githubusercontent.com/75755156/116002642-aebc8500-a635-11eb-88e3-ad67410b5054.png" width="35%">
+<img src = "https://user-images.githubusercontent.com/75755156/116002659-c0059180-a635-11eb-9211-b4e86c285daa.png" width="35%">
+<img src = "https://user-images.githubusercontent.com/75755156/116002670-cc89ea00-a635-11eb-88b5-d2b9dc7b5ab6.png" width="35%">
 
-## Installation
-Android Studio
-
-Android SDK 28 Android SDK Build-tools 28.0.3
-
+## Tools
+Android Studio   
+Android SDK 28 Android SDK Build-tools 28.0.3   
 (You can change other sdk and build-tools)
-## Usage
+## Setting
 #### Gradle
 
 ```gradle
